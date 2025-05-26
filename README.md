@@ -9,9 +9,9 @@
 
 ### 🧑‍💻 About Me:
 - 🎓 Recently completed **MCA** from *College of IT and Management Education, Bhubaneswar*
-- 💻 I’m passionate about **Web Development**, **Blockchain (Web3)**, and **App Development**
+- 💻 I’m passionate about **Web Development**, **Blockchain (Web3)**
 - 🌱 Currently learning **Solidity**, **React.js**, and **Node.js**
-- 💬 Ask me about `Java`, `Python`, `HTML`, `CSS`, `JS`, `Solidity`, `Git`, `DBMS`
+- 💬 Ask me about `Java`, `SQL`, `HTML`, `CSS`, `JS`,`Solidity`,`DBMS`
 - 🎥 I also run a motivational and knowledge-sharing page on Instagram (in Hindi)
 - 📫 Reach me at **sksudipta136@gmail.com**
 - 🔗 LinkedIn: [Sudipta Kumar Bhoi](https://www.linkedin.com/in/sudipta-kumar-bhoi-630802208)
